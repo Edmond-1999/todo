@@ -1,2 +1,0 @@
-# todo
-For Semicolon
